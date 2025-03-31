@@ -20,7 +20,7 @@ public class Main {
 //        solution.plusOne(new int[]{9, 9, 9});
 //        solution.addBinary("11", "01");
 //        solution.mySqrt(2147395599);
-        solution.climbStairs(44);
+//        solution.climbStairs(44);
     }
 
 
