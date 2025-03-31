@@ -23,6 +23,9 @@ public class Main {
 //        solution.climbStairs(44);
         System.out.println("test");
         System.out.println("test");
+        System.out.println("test");
+        System.out.println("test");
+        System.out.println("test");
     }
 
 
