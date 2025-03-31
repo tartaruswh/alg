@@ -21,11 +21,6 @@ public class Main {
 //        solution.addBinary("11", "01");
 //        solution.mySqrt(2147395599);
 //        solution.climbStairs(44);
-        System.out.println("test");
-        System.out.println("test");
-        System.out.println("test");
-        System.out.println("test");
-        System.out.println("test");
     }
 
 
